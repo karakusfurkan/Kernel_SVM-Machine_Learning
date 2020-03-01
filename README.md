@@ -1,5 +1,6 @@
-Support Vector Machine example about predicting the clicked ads by estimated salary  with Python
+Kernel Support Vector Machine example about predicting the clicked ads by estimated salary  with Python
 
+SVC(kernel = "rbf") used and will be added the others.
 
 This is the SVM test results. Correlation matrix's result is: <br>
 [[64 4 <br>
