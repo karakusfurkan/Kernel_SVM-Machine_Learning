@@ -2,7 +2,7 @@ Kernel Support Vector Machine example about predicting the clicked ads by estima
 
 SVC(kernel = "rbf") used and will be added the others.
 
-This is the SVM test results. Correlation matrix's result is: <br>
+This is the SVM test results. Confusion matrix's result is: <br>
 [[64 4 <br>
   &nbsp;&nbsp;3 29]]
 
